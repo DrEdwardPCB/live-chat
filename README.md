@@ -2,6 +2,10 @@
 
 this application is a home work for cantek Oct
 
+## live demo
+
+[live demo](https://merry-gecko-1ee391.netlify.app/)
+
 <detail>
 <summary> vite react-ts template original doc</summary>
 
